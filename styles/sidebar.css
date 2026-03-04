@@ -1,5 +1,5 @@
 .sidebar {
-    position: fixed;
+  position: fixed;
   left: 0;
   bottom: 0;
   top: 55px;
@@ -9,8 +9,8 @@
 }
 
 .sidebar-link {
-    height: 80px;
-    margin-bottom: 12px;
+  height: 80px;
+  margin-bottom: 12px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -18,15 +18,16 @@
   cursor: pointer;
 }
 .sidebar-link:hover {
-    background-color: rgb(196, 89, 89);
+  background-color: rgb(196, 89, 89);
 }
 .sidebar-link img {
-    height: 24px;
-    margin-bottom: 4px;
+  height: 24px;
+  margin-bottom: 4px;
 }
 .sidebar-link div {
-    font-size: 10px;
-    font-family: Roboto, Arial;
+  font-size: 10px;
+  font-family: Roboto, Arial;
 }
-
-
+.icon{
+    border-radius: 16px;
+}
