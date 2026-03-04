@@ -9,7 +9,8 @@
 }
 
 .sidebar-link {
-    /*height: 80px;*/
+    height: 80px;
+    margin-bottom: 12px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -19,10 +20,13 @@
 .sidebar-link:hover {
     background-color: rgb(245, 245, 245);
 }
-.sidebar-link .icon {
+.sidebar-link img {
     height: 24px;
-    width: 24px;
     margin-bottom: 4px;
+}
+.sidebar-link div {
+    font-size: 10px;
+    font-family: Roboto, Arial;
 }
 
 
