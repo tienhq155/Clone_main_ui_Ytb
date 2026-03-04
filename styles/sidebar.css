@@ -11,6 +11,7 @@
 .sidebar-link {
   height: 40px;
   margin-bottom: 12px;
+  margin-right: 5px;
   display: flex;
   flex-direction: column;
   justify-content: center;
