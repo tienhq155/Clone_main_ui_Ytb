@@ -39,3 +39,20 @@
   font-family: Roboto, Arial;
   text-align: center;
 }
+
+.subscribe-channel-icon{
+    width: 18px;
+    border-radius: 16px;
+}
+.subscribe-channel-name{
+    font-size: 10px;
+    color: rgb(113, 113, 113);
+    font-family: Roboto, Arial;
+}
+.subscribe-channle{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
